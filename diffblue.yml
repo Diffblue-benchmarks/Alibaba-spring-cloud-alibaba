@@ -185,24 +185,6 @@ units:
      sourceDir: spring-cloud-alibaba-nacos-discovery/src/main/java
      sourceFile: org/springframework/cloud/alibaba/nacos/NacosDiscoveryProperties.java
  - target:
-   - dir: spring-cloud-alibaba-nacos-config/target/test-classes
-     file: org/springframework/cloud/alibaba/nacos/NacosConfigurationTests$1.class
-     sourceDir: spring-cloud-alibaba-nacos-config/src/test/java
-     sourceFile: org/springframework/cloud/alibaba/nacos/NacosConfigurationTests.java
-   - dir: spring-cloud-alibaba-nacos-config/target/test-classes
-     file: org/springframework/cloud/alibaba/nacos/NacosConfigurationTests.class
-     sourceDir: spring-cloud-alibaba-nacos-config/src/test/java
-     sourceFile: org/springframework/cloud/alibaba/nacos/NacosConfigurationTests.java
- - target:
-   - dir: spring-cloud-alibaba-nacos-config/target/test-classes
-     file: org/springframework/cloud/alibaba/nacos/NacosConfigurationExtConfigTests$1.class
-     sourceDir: spring-cloud-alibaba-nacos-config/src/test/java
-     sourceFile: org/springframework/cloud/alibaba/nacos/NacosConfigurationExtConfigTests.java
-   - dir: spring-cloud-alibaba-nacos-config/target/test-classes
-     file: org/springframework/cloud/alibaba/nacos/NacosConfigurationExtConfigTests.class
-     sourceDir: spring-cloud-alibaba-nacos-config/src/test/java
-     sourceFile: org/springframework/cloud/alibaba/nacos/NacosConfigurationExtConfigTests.java
- - target:
    - dir: spring-cloud-alibaba-dubbo/target/classes
      file: org/springframework/cloud/alibaba/dubbo/http/util/HttpUtils.class
      sourceDir: spring-cloud-alibaba-dubbo/src/main/java
